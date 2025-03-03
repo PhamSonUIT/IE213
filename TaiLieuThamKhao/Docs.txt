@@ -1,0 +1,8 @@
+Layout tham khảo youtube, dùng react js cho fontend
+Node js, express js cho backend
+Database: MongoDB
+
+React: https://react.dev/learn, https://www.w3schools.com/react/default.asp
+Cài đặt và kết nối mongodb: https://www.youtube.com/watch?v=MyIiM7z_j_Y&t=225s&ab_channel=CodeWithArjun (25/2)
+Tạo models: https://viblo.asia/p/mongoose-cho-mongodb-nodejs-Qbq5QWvJZD8 (25/2)
+CRUD với mongodb: https://viblo.asia/p/crud-trong-mongodb-63vKjVvdK2R (25/2)
